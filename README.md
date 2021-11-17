@@ -1,4 +1,4 @@
-# CLONEDWOLF-ARCHITECTURE
+# WOLF-ARCHITECTURE
 A sample static website for an architectural company
 ## Getting Started
 
@@ -11,13 +11,13 @@ A sample static website for an architectural company
 Clone the project
 
 ``` console
-git clone git@github.com:Harrytimbog/Clonedwolf-architecture.git
+git clone git@github.com:Harrytimbog/wolf-architecture.git
 ```
 
 ## Feedback  
 
 Arigbede Timilehin Emmanuel - @Harrytimbog - harriemannie@gmail.com
 
-Project Link: git@github.com:Harrytimbog/Clonedwolf-architecture.git
+Project Link: git@github.com:Harrytimbog/wolf-architecture.git
 
 Demo Link: https://dreamy-swirles-ced8ee.netlify.app/
