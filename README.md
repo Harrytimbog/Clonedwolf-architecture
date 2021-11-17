@@ -20,4 +20,4 @@ Arigbede Timilehin Emmanuel - @Harrytimbog - harriemannie@gmail.com
 
 Project Link: git@github.com:Harrytimbog/architecture.git
 
-Demo Link: https://nextjs-news-blog.vercel.app/
+Demo Link: https://dreamy-swirles-ced8ee.netlify.app/
